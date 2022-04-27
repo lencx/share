@@ -1,8 +1,8 @@
 # Node.js 脚本入门
 
-<!-- ## 视频回放
+## 视频回放
 
-B站 - Node.js 脚本入门：待上传 -->
+[B站 - Node.js 脚本入门](https://www.bilibili.com/video/BV1Gr4y1n7aU/)
 
 ## Node API
 
