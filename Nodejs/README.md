@@ -28,3 +28,9 @@ API 基本用法
 
 - [开发利器之命令行](https://mp.weixin.qq.com/s/kV4mx99tv7pkJw0Y2kDJGg)
 - [什么字体更适合程序员？](https://mp.weixin.qq.com/s/1bVKMR7LDh8JOCHos4Kjyg)
+
+## Cli 项目
+
+- [lencx/create-mpl](https://github.com/lencx/create-mpl) - 聚合脚手架
+- [lencx/woap](https://github.com/lencx/woap) - GitHub Discussions 生成微信文章 (支持二维码及脚注形式)
+- [lencx/rgd](https://github.com/lencx/rgd) - GitHub Discussions 生成 JSON，RSS 文件
